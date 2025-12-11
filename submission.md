@@ -7,15 +7,15 @@ title: Call for Paper
 
 <section class="call-intro">
   <h4 class="pageTitle" style="color: #2c3e50;">Call for Paper</h4>
+  <h5 class="pageTitle" style="color: #2c3e50;">Introduction  </h5>
   <p>
-  Introduction
   Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices are advancing rapidly to address the evolving needs of patients, clinicians, and manufacturers in the MedTech industry.  However, the pace of technological innovation has outstripped the development of evaluation methods in some instances, creating uncertainty for developers and posing challenges for regulatory bodies charged with ensuring safety, efficacy, and transparency.
 </p>
   <p>
   The workshop aims to introduce regulatory science on AI-enabled devices to the ISBI community, with a particular focus on the assessment of medical video AI and uncertainty quantification. These areas present unique challenges, including frame-to-frame variability, motion artifacts, and temporal consistency. We aim to foster dialogue among researchers, clinicians, and regulators to discuss technical and regulatory challenges and help to reduce the gap between development of novel AI technologies and their clinical adoption. We will discuss the development of regulatory science tools, testing methods, and metrics for assessing AI-assisted devices. 
 While this workshop will focus on medical video AI systems, assessment many of the concepts generalize to other device types. 
 </p>
-Rationale
+<h5 class="pageTitle" style="color: #2c3e50;">Rationale  </h5>
   <p>
   The rapid adoption of AI across a broad range of medical devices highlights the need for robust evaluation frameworks and assessment approaches tailored to AI-based technologies. Critical regulatory science challenges include assessing generalizability, interpretability, and uncertainty quantification. Addressing these challenges is essential to support evidence-based regulatory decision-making and to ensure that AI-enabled medical devices are safe and effective.
 </p>
