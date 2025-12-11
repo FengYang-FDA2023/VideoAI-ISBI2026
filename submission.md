@@ -60,10 +60,10 @@ While this workshop will focus on medical video AI systems, assessment many of t
   <h4 style="color: #2c3e50;">Paper Format &amp; Submission</h4>
   <p>
     Submissions must be anonymized (double-blind), use the official
-    <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"
+    <a href="[https://biomedicalimaging.org/2026/initial-author-instructions/"
        target="_blank"
        rel="noopener">
-      Springer LNCS format
+      IEEE ISBI format
     </a>,
     and be no more than <strong>8 pages of main content</strong> plus up to <strong>2 pages of references</strong>.
   </p>
