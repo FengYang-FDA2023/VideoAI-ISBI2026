@@ -21,7 +21,7 @@ paginate: 5
 navigation:
     - title: Home
       url: /home #index.html
-    - title: About
+    - title: Organizers
       url: /about
     - title: Call for paper
       url: /submission
