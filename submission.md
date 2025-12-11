@@ -31,7 +31,7 @@ While this workshop will focus on medical video AI systems, assessment many of t
 
   <!-- Topics of Interest -->
   <section class="topics">
-    <h4 style="color: #2c3e50;">We invite the submission of papers for topics related (but not limited to):</h4>
+    <h3 style="color: #2c3e50;">Topics that will be covered in the workshop:</h3>
     <ul>
       <li>Study designs for benchmarking disease-detection models in medical video-based applications</li>
       <li>Standardized evaluation frameworks/methods for AI-enabled video devices</li>
