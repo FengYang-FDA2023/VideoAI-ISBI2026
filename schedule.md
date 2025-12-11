@@ -35,23 +35,23 @@ title: Schedule
       <tbody>
         <tr>
           <td style="padding: 8px;">08:00–08:10</td>
-          <td style="padding: 8px;">Introduction to BRIDGE</td>
-          <td style="padding: 8px;">Ghada Zamzmi</td>
+          <td style="padding: 8px;">Introduction</td>
+          <td style="padding: 8px;">Feng Yang</td>
         </tr>
         <tr>
           <td style="padding: 8px;">08:10–08:45</td>
           <td style="padding: 8px;">Accelerating AI Model Development and Evaluation with Regulatory Science</td>
-          <td style="padding: 8px;">Dr. Nicholas Petrick (FDA)</td>
+          <td style="padding: 8px;">Dr. Jana Delfino/Feng Yang (TBF) (FDA)</td>
         </tr>
         <tr>
           <td style="padding: 8px;">08:45–09:20</td>
           <td style="padding: 8px;">Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
-          <td style="padding: 8px;">Dr. Lena Maier-Hein (DKFZ)</td>
+          <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
         </tr>
         <tr>
           <td style="padding: 8px;">09:20–09:55</td>
           <td style="padding: 8px;">Perspective on the Challenges of Taking Surgical AI Research to the Patient</td>
-          <td style="padding: 8px;">Dr. Danail Stoyanov (UCL)</td>
+          <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
           <td style="padding: 8px;">10:00–10:30</td>
