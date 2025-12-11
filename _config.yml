@@ -1,8 +1,7 @@
-title: BRIDGE 
-#subtitle: Bridging Regulatory Science and Medical Imaging Evaluation
-description: Bridging Regulatory Science and Medical Imaging Evaluation 
+title: Medical Video AI Assessment and Uncertainty Quantification - Bridging Research and Practice
+description: The workshop aims to introduce regulatory science on AI-enabled devices to the ISBI community, with a particular focus on the assessment of medical video AI and uncertainty quantification. 
 
-url: https://long-haul.netlify.app
+url: https://FengYang-FDA2023.github.io/2026ISBIWorkshop-VideoAIAsssessmentandUncertaintyQuantification-1st
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
 baseurl: # Ex: /project-page
 paginate_path: "blog/page:num/"
@@ -10,10 +9,7 @@ permalink: blog/:title/
 
 # Header Option
 # header: large
-# Main - when (09/23/2025) and where (Seoul, Korea), title, short paragraph 
-# About - main topics, organizers, advisory committee
-# Schedule - to be announced
-# Call for submission - instruction (CMT submission website), topics of interest
+
 sass:
     style: compressed
 
@@ -24,24 +20,26 @@ paginate: 5
 
 navigation:
     - title: Home
-      url:  /home #/index.html
+      url: /home #index.html
     - title: About
       url: /about
+    - title: Call for paper
+      url: /paper
+    - title: Keynote speakers
+      url: /keynote
     - title: Schedule
       url: /schedule
-    - title: Call for submission
-      url: /submission
 
 # social:
-#     github: brianmaierjr
-#     twitter: brianmaierjr
-#     facebook: brianmaierjr
-#     email: brimaidesigns@gmail.com
-#     linkedin: brianmaierjr
-#     youtube: RickAstleyYT
-#     tumblr: i-am-a-fish
+    # github: brianmaierjr
+    # twitter: brianmaierjr
+    # facebook: brianmaierjr
+    # email: brimaidesigns@gmail.com
+    # linkedin: brianmaierjr
+    # youtube: RickAstleyYT
+    # tumblr: i-am-a-fish
 
 # google_analytics: "UA-58263416-1"
 
 # disqus:
-#     shortname: brianmaierjr
+    # shortname: brianmaierjr
