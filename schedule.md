@@ -50,7 +50,7 @@ title: Schedule
         </tr>
         <tr>
           <td style="padding: 8px;">09:20–09:55</td>
-          <td style="padding: 8px;">Perspective on the Challenges of Taking Surgical AI Research to the Patient</td>
+          <td style="padding: 8px;">Uncertainty Assessment for Medical AI (TBF)</td>
           <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
@@ -61,7 +61,7 @@ title: Schedule
     </table>
   </section>
 
-  <!-- Session 2: Posters -->
+  <!-- Session 2: Oral presentation -->
   <section class="session session-posters">
     <h4 style="color: #2c3e50;">Session 2 — Posters</h4>
 
@@ -76,34 +76,10 @@ title: Schedule
       <tbody>
         <tr>
           <td style="padding: 8px;">10:30–10:40</td>
-          <td style="padding: 8px;">Evaluation of Deformable Image Registration under Alignment–Regularity Trade-off</td>
-          <td style="padding: 8px;">Vasiliki Sideri-Lampretsa, Daniel Rueckert, Huaqi Qiu</td>
+          <td style="padding: 8px;">TBD</td>
+          <td style="padding: 8px;">TBD</td>
         </tr>
-        <tr>
-          <td style="padding: 8px;">10:40–10:50</td>
-          <td style="padding: 8px;">Some Hidden Traps of Confidence Intervals in Medical Image Segmentation: Coverage Issues</td>
-          <td style="padding: 8px;">Pascaline André, Charles Heitz, Evangelia Christodoulou, Annika Reinke, Carole H. Sudre, Michela Antonelli, M. Jorge Cardoso, Antoine Gilson, Sophie Tezenas du Montcel, Gaël Varoquaux, Lena Maier-Hein, Olivier Colliot</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">10:50–11:00</td>
-          <td style="padding: 8px;">Three Countries, Three Continents: AI Medical Device Regulation and Certification in the US, EU, and South Korea</td>
-          <td style="padding: 8px;">Kanjar De, Alireza Salehi</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">11:00–11:10</td>
-          <td style="padding: 8px;">FDA’s PCCP: Opportunities and Gaps</td>
-          <td style="padding: 8px;">Niklas Babendererde, Amin Ranem, Moritz Fuchs, Camila Gonzalez, Henry John Krumb, Anirban Mukhopadhyay</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">11:10–11:20</td>
-          <td style="padding: 8px;">Enabling PSO-Secure Synthetic Data Sharing Using Diversity-Aware Diffusion Models</td>
-          <td style="padding: 8px;">Mischa Dombrowski, Bernhard Kainz</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">11:20–11:30</td>
-          <td style="padding: 8px;">From Data to Value: Gaps in Federated Learning Evaluation for Clinical Deployment in Medical Imaging</td>
-          <td style="padding: 8px;">Beatriz Garcia Santa Cruz, Jaleh Shoshtarian Malak, Hanna Ćwiek-Kupczyńska, Venkata Satagopam</td>
-        </tr>
+        
       </tbody>
     </table>
   </section>
@@ -123,10 +99,10 @@ title: Schedule
       <tbody>
         <tr>
           <td style="padding: 8px;">11:30–12:30</td>
-          <td style="padding: 8px;">From Challenge to Change: Regulatory‑Driven Medical AI Innovation</td>
+          <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
-            <strong>Panelists:</strong> Dr. Ben Glocker, Dr. Nicholas Petrick, Dr. Federica Zanca, Dr. Suhyeong Park, Dr. Oliver Eidel; <em>Industry Panelist TBA</em><br/>
-            <strong>Moderator:</strong> Dr. Thijs Kooi
+            <strong>Panelists:</strong> TBD; <em>Industry Panelist TBA</em><br/>
+            <strong>Moderator:</strong> Dr. Maria Zuluaga
           </td>
         </tr>
       </tbody>
