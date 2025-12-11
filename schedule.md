@@ -8,9 +8,9 @@ title: Schedule
   <section class="schedule-intro">
     <h4 class="pageTitle" style="color: #2c3e50;">Workshop Schedule</h4>
     <p>
-      <strong>BRIDGE Workshop</strong> (Bridging Regulatory Science and Medical AI)
+      <strong>Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice</strong>
       <br/>
-      <strong>Date:</strong> September 23, 2025
+      <strong>Date:</strong> April 8, 2026
     </p>
   </section>
 
