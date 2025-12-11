@@ -24,10 +24,7 @@ While this workshop will focus on medical video AI systems, assessment many of t
 
   </p>
   <p>
-    If you are working on research related to medical AI, clinical deployment, or evaluation, then:
-  </p>
-  <p style="text-align: center; font-weight: bold; margin: 1em 0;">
-    <strong>Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice</strong> is the right place for your work!
+    If you are working on research related to medical AI, clinical deployment, or evaluation, then: <strong>Medical Video AI Assessment and Uncertainty Quantification</strong> is the right place for your work!
   </p>
 </section>
 
