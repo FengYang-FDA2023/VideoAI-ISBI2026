@@ -101,7 +101,7 @@ title: Schedule
           <td style="padding: 8px;">11:30–12:30</td>
           <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
-            <strong>Panelists:</strong> TBD; <em>Industry Panelist TBA</em><br/>
+            <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
             <strong>Moderator:</strong> Dr. Maria Zuluaga
           </td>
         </tr>
@@ -110,7 +110,7 @@ title: Schedule
   </section>
 
   <footer style="text-align: center; margin-top: 2em;">
-    <p>— BRIDGE Workshop Team</p>
+    <p>— Medical Video AI Assessment and Uncertainty Quantification Workshop Team</p>
   </footer>
 
 </div>
