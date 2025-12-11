@@ -21,10 +21,10 @@ paginate: 5
 navigation:
     - title: Home
       url: /home #index.html
-    - title: Organizers
-      url: /about1
     - title: Call for paper
       url: /submission
+    - title: Organizers
+      url: /about1
     - title: Keynote speakers
       url: /keynote
     - title: Schedule
