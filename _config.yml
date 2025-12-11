@@ -22,7 +22,7 @@ navigation:
     - title: Home
       url: /home #index.html
     - title: Organizers
-      url: /about
+      url: /about1
     - title: Call for paper
       url: /submission
     - title: Keynote speakers
