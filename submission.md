@@ -8,15 +8,18 @@ title: Call for Paper
 <section class="call-intro">
   <h4 class="pageTitle" style="color: #2c3e50;">Call for Paper</h4>
   <p>
-    Introduction
+  Introduction
   Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices are advancing rapidly to address the evolving needs of patients, clinicians, and manufacturers in the MedTech industry.  However, the pace of technological innovation has outstripped the development of evaluation methods in some instances, creating uncertainty for developers and posing challenges for regulatory bodies charged with ensuring safety, efficacy, and transparency.
-    
+</p>
+  <p>
   The workshop aims to introduce regulatory science on AI-enabled devices to the ISBI community, with a particular focus on the assessment of medical video AI and uncertainty quantification. These areas present unique challenges, including frame-to-frame variability, motion artifacts, and temporal consistency. We aim to foster dialogue among researchers, clinicians, and regulators to discuss technical and regulatory challenges and help to reduce the gap between development of novel AI technologies and their clinical adoption. We will discuss the development of regulatory science tools, testing methods, and metrics for assessing AI-assisted devices. 
 While this workshop will focus on medical video AI systems, assessment many of the concepts generalize to other device types. 
-
+</p>
 Rationale
+  <p>
   The rapid adoption of AI across a broad range of medical devices highlights the need for robust evaluation frameworks and assessment approaches tailored to AI-based technologies. Critical regulatory science challenges include assessing generalizability, interpretability, and uncertainty quantification. Addressing these challenges is essential to support evidence-based regulatory decision-making and to ensure that AI-enabled medical devices are safe and effective.
-  
+</p>
+  <p>
   Extending these considerations to the domain of medical video AI introduces additional complexities. Medical video AI systems are relatively new, designed to assist care providers by improving the identification of abnormalities within temporally continuous imaging data, including real-time clinical applications. Taking the colonoscopy computer-aided detection (colon-CADe) devices as an example, six colon-CADe devices are authorized for marketing in the US. Disease detection in video imaging procedures differs from many radiology AI applications, which typically operate on static images and potentially non-real time image interpretation. In contrast, video AI systems must handle challenges such as frame-to-frame variability, motion artifacts, and lesion persistence across time, and often the need for real-time prompting as diagnosis are commonly made during the clinical procedure/video collection such that appropriate intervention can be performed. It remains unclear which specific performance metrics and standalone study protocols are adequate to compare colon-CADe algorithms as AI testing protocols and metrics characterizing video-based performance are still evolving. While many ISBI workshops have explored algorithm developments, novel applications and platforms, a significant gap remains tackling practical assessment pitfalls, real‐world deployment hurdles, and core regulatory-science questions necessary for safe clinical translation. Addressing these gaps is essential to ensure AI‐enabled devices perform reliably in the clinical setting. 
 
   </p>
