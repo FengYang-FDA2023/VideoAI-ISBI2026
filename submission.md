@@ -1,20 +1,30 @@
 ---
 layout: default
-title: Submission
+title: Call for Paper
 ---
 
 <div class="post" style="text-align: justify;">
 
 <section class="call-intro">
-  <h4 class="pageTitle" style="color: #2c3e50;">Call for Submissions</h4>
+  <h4 class="pageTitle" style="color: #2c3e50;">Call for Paper</h4>
   <p>
-    There is a surge of new AI models and methods, yet many are adopted in healthcare without fully assessing their impact on patient safety and outcomes. Without alignment between innovation, evaluation, and regulation, these technologies risk remaining confined to research and never reaching clinical practice. We therefore need rigorous evaluation frameworks and effective regulatory processes to ensure AI in healthcare is safe, reliable, and deployment-ready.
+    Introduction
+  Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices are advancing rapidly to address the evolving needs of patients, clinicians, and manufacturers in the MedTech industry.  However, the pace of technological innovation has outstripped the development of evaluation methods in some instances, creating uncertainty for developers and posing challenges for regulatory bodies charged with ensuring safety, efficacy, and transparency.
+    
+  The workshop aims to introduce regulatory science on AI-enabled devices to the ISBI community, with a particular focus on the assessment of medical video AI and uncertainty quantification. These areas present unique challenges, including frame-to-frame variability, motion artifacts, and temporal consistency. We aim to foster dialogue among researchers, clinicians, and regulators to discuss technical and regulatory challenges and help to reduce the gap between development of novel AI technologies and their clinical adoption. We will discuss the development of regulatory science tools, testing methods, and metrics for assessing AI-assisted devices. 
+While this workshop will focus on medical video AI systems, assessment many of the concepts generalize to other device types. 
+
+Rationale
+  The rapid adoption of AI across a broad range of medical devices highlights the need for robust evaluation frameworks and assessment approaches tailored to AI-based technologies. Critical regulatory science challenges include assessing generalizability, interpretability, and uncertainty quantification. Addressing these challenges is essential to support evidence-based regulatory decision-making and to ensure that AI-enabled medical devices are safe and effective.
+  
+  Extending these considerations to the domain of medical video AI introduces additional complexities. Medical video AI systems are relatively new, designed to assist care providers by improving the identification of abnormalities within temporally continuous imaging data, including real-time clinical applications. Taking the colonoscopy computer-aided detection (colon-CADe) devices as an example, six colon-CADe devices are authorized for marketing in the US. Disease detection in video imaging procedures differs from many radiology AI applications, which typically operate on static images and potentially non-real time image interpretation. In contrast, video AI systems must handle challenges such as frame-to-frame variability, motion artifacts, and lesion persistence across time, and often the need for real-time prompting as diagnosis are commonly made during the clinical procedure/video collection such that appropriate intervention can be performed. It remains unclear which specific performance metrics and standalone study protocols are adequate to compare colon-CADe algorithms as AI testing protocols and metrics characterizing video-based performance are still evolving. While many ISBI workshops have explored algorithm developments, novel applications and platforms, a significant gap remains tackling practical assessment pitfalls, real‐world deployment hurdles, and core regulatory-science questions necessary for safe clinical translation. Addressing these gaps is essential to ensure AI‐enabled devices perform reliably in the clinical setting. 
+
   </p>
   <p>
-    If you are working on research related to AI safety, clinical deployment, or evaluation and regulation frameworks, then:
+    If you are working on research related to medical AI, clinical deployment, or evaluation, then:
   </p>
   <p style="text-align: center; font-weight: bold; margin: 1em 0;">
-    <strong>BRIDGE</strong> is the right place for your work!
+    <strong>Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice</strong> is the right place for your work!
   </p>
 </section>
 
@@ -23,26 +33,17 @@ title: Submission
   <section class="topics">
     <h4 style="color: #2c3e50;">We invite the submission of papers for topics related (but not limited to):</h4>
     <ul>
-      <li>Robust evaluation methods and regulatory frameworks for AI-enabled medical devices</li>
-      <li>Studies revealing disconnects between AI development, evaluation metrics, and regulatory requirements</li>
-      <li>Theoretical or empirical analyses of gaps in current medical-AI evaluation practices</li>
-      <li>Algorithmic approaches designed for regulatory alignment from the outset</li>
-      <li>Position or perspective papers on open problems, negative results, or flawed practices affecting patient safety</li>
-      <li>Evaluation and regulation of generative AI, LLMs, and autonomous systems, and emerging technologies </li>
-      <li>Post-market monitoring strategies to ensure ongoing safety and effectiveness</li>
-      <li>Empirical assessments of AI readiness for real-world clinical deployment</li>
-      <li>Under-explored regulatory questions with direct patient-safety implications</li>
-      <li>Comparative studies of regulatory pathways for AI-based medical devices across regions (e.g., EU, US, Asia)</li>
-      <li>Perspectives on collaborative frameworks that facilitate global regulatory alignment and innovation-friendly evaluation</li>
-      <li>Frameworks for monitoring AI performance in the real world</li>
-      <li>Best practices for deploying continual learning systems under regulatory constraints</li>
-      <li>Studies addressing model drift, safety updates, and long-term monitoring strategies</li>
-      <li>Development of novel benchmarking tools, simulation platforms, or digital twins to support pre-market evaluation</li>
-      <li>Methods for aligning explainable AI (XAI) outputs with clinical interpretability and regulatory expectations</li>
-      <li>Studies on integrating clinical validation and end-user feedback in algorithm evaluation</li>
-      <li>Translational and lifecycle challenges, including case studies of research-to-clinic success or bottlenecks</li>
-      <li>Perspectives on early regulatory engagement strategies for startups, academics, and consortia</li>
+      <li>Study designs for benchmarking disease-detection models in medical video-based applications</li>
+      <li>Standardized evaluation frameworks/methods for AI-enabled video devices</li>
+      <li>Evaluation metrics at potentially multiple levels (e.g., frame-, lesion-, and patient-level) for performance, video detection latency, temporal consistency, false-positive burden, etc.</li>
+      <li>Development and curation of reference datasets for medical video AI evaluation</li>
+      <li>Methods to quantify, calibrate, and report predictive uncertainty in AI-enabled medical devices, such as computer aided detection (CADe) devices</li>
+      <li>Frameworks for regulatory-grade uncertainty analysis and interpretability</li>
+      <li>Benchmarking and validation of AI-enabled devices using uncertainty metrics</li>
+      <li>Strategies to integrate uncertainty awareness into real-time clinical AI workflows</li>
+      <li>Analysis revealing disconnects between AI development, evaluation metrics, and regulatory requirements</li>
       <li>Comparative regulatory science across countries: lessons for global alignment</li>
+
     </ul>
   </section>
 
@@ -50,8 +51,7 @@ title: Submission
   <section class="proceedings">
     <h4 style="color: #2c3e50;">Proceedings</h4>
     <p>
-      Accepted papers will be published in the MICCAI Workshops volume of Springer’s
-      <em>Lecture Notes in Computer Science (LNCS)</em> series.
+      Accepted papers will be published in the ISBI conference proceedings.
     </p>
   </section>
 
@@ -69,7 +69,7 @@ title: Submission
   </p>
   <p>
     Submit your manuscript via OpenReview:
-    <a href="https://openreview.net/group?id=MICCAI.org/2025/Workshop/BRIDGE"
+    <a href="https://openreview.net/group?id=ISBI.org/2026/Workshop/VideoAIandUncertainty"
        target="_blank"
        rel="noopener">
       OpenReview Submission Site
@@ -96,9 +96,9 @@ title: Submission
   <section class="important-dates">
     <h4 style="color: #2c3e50;">Important Dates (Anywhere on Earth)</h4>
     <ul>
-    <li><strong>Full paper deadline:</strong> <s>June 25, 2025</s> July 7, 2025</li>
-    <li><strong>Notification of acceptance:</strong> <s>July 16, 2025</s> July 25, 2025</li>
-    <li><strong>Camera-ready deadline:</strong> July 30, 2025</li>
+    <li><strong>Full paper deadline:</strong> <s>Feb 15th, 2026</li>
+    <li><strong>Notification of acceptance:</strong> <s>Feb 28th, 2026</li>
+    <li><strong>Camera-ready deadline:</strong> March 7th, 2026 (No deadline extension)</li>
     <li><strong>Workshop date:</strong> TBA</li>
     </ul>
   </section>
@@ -108,11 +108,11 @@ title: Submission
   <!-- Contact -->
   <section class="contact">
     <h4 style="color: #2c3e50;">Questions?</h4>
-    <p>Reach us at <a href="mailto:BRIDGERegSci@gmail.com">BRIDGERegSci@gmail.com</a></p>
+    <p>Reach us at <a href="mailto:videoai.isbi2026@gmail.com">videoai.isbi2026@gmail.com</a></p>
   </section>
 
   <footer style="text-align: center; margin-top: 2em;">
-    <p>— BRIDGE Workshop Team</p>
+    <p>— Medical Video AI Assessment and Uncertainty Quantification Workshop Team</p>
   </footer>
 
 </div>
