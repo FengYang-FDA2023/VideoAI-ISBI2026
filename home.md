@@ -3,16 +3,16 @@ layout: default
 title: home
 ---
 <div class="post" style="text-align: justify;">
-  	<h3 class="pageTitle" style="color: #2c3e50;"> Bridging Regulatory Science and Medical Imaging Evaluation </h3>
+  	<h3 class="pageTitle" style="color: #2c3e50;"> Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice </h3>
 
-    While there is a push for regulatory organizations to establish standards and guidelines for new artificial intelligence (AI) technologies (e.g., generative Al, autonomous Al, continual learning), formulating effective regulations is challenging without rigorous evaluation of these innovations; the principle <strong>"if we cannot evaluate it, we cannot regulate it"</strong> highlights this dependency. Thus, regulation and evaluation are intricately connected.
+    Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices are advancing rapidly to address the evolving needs of patients, clinicians, and manufacturers in the MedTech industry.  However, the pace of technological innovation has outstripped the development of evaluation methods in some instances, creating uncertainty for developers, and posing challenges for regulatory bodies charged with ensuring safety, efficacy, and transparency.
 <br><br>
 
-    The lack of robust evaluation frameworks introduces both challenges and opportunities within regulatory science, a field dedicated to developing tools and methodologies to assess and monitor the performance of Al-enabled or Al-powered medical devices.
+    The workshop aims to introduce regulatory science on AI-enabled devices to the ISBI community, with a particular focus on the assessment of medical video AI and uncertainty quantification. These areas present unique challenges, including frame-to-frame variability, motion artifacts, and temporal consistency. We aim to foster dialogue among researchers, clinicians, and regulators to discuss technical and regulatory challenges and help to reduce the gap between development of novel AI technologies and their clinical adoption. We will discuss the development of regulatory science tools, testing methods, and metrics for assessing AI-assisted devices. 
 <br><br>
 
-    This workshop aims to introduce Al regulatory science to the MICCAI community and provide a platform for researchers, clinicians, and regulators to discuss algorithmic, technical, and policy challenges and collaboratively develop rigorous solutions for the safe and effective deployment of Al in healthcare. In addition, this workshop will provide an educational platform to highlight the often-overlooked importance of regulatory aspects and evaluation in AI research.
+    While this workshop will focus on medical video AI systems, assessment many of the concepts generalize to other device types. 
  
- Reach out to us at: <a href="mailto:bridgeregsci@gmail.com">BRIDGERegSci@gmail.com</a><br>
+ Reach out to us at: <a href="mailto:videoai.isbi2026@gmail.com">videoai.isbi2026@gmail.com</a><br>
 
 </div>
