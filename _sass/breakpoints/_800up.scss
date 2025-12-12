@@ -93,7 +93,7 @@ HEADER STYLING
 				border: none;
 
 				a {
-					color: white;
+					color: black;
 					font-size: 1.2em;
 					font-weight: 700;  //bold
 					text-decoration: none;
@@ -106,7 +106,7 @@ HEADER STYLING
 
 				&.current {
 					padding-bottom: .25em;
-					border-bottom: 4px solid rgba(255, 255, 255, .4);
+					border-bottom: 4px solid rgba(0, 0, 0, .4);
 				}
 			}
 		}
