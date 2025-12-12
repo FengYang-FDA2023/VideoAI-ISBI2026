@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 <div class="post" style="text-align: justify;">
-  	<h3 class="pageTitle" style="color: #2c3e50;"> Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice </h3>
+  	<h3 class="pageTitle" style="color: #2c3e50;">The 1st Workshop on Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice </h3>
 
     Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices are advancing rapidly to address the evolving needs of patients, clinicians, and manufacturers in the MedTech industry.  However, the pace of technological innovation has outstripped the development of evaluation methods in some instances, creating uncertainty for developers, and posing challenges for regulatory bodies charged with ensuring safety, efficacy, and transparency.
 <br><br>
