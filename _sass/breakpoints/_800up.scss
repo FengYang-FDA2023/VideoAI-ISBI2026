@@ -94,7 +94,7 @@ HEADER STYLING
 
 				a {
 					color: black;
-					font-size: 1em;
+					font-size: 1.2em;
 					text-decoration: none;
 					padding: 0 .25em;
 
@@ -131,7 +131,11 @@ MENU STYLING
 .js {
 
 	.nav-collapse {
-		position: relative;
+		//position: relative;
+		position: absolute;
+        bottom: 0.5rem;   // distance from bottom of image
+        left: 50%;
+    	transform: translateX(-50%);   // centers it 
 		max-height: none;
 
 		&.closed {
