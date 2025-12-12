@@ -79,8 +79,8 @@ HEADER STYLING
 	}
 
 	nav {
-		float: left;
-		clear: left;
+		// float: left;
+		// clear: left;
 
 		ul {
 			margin: 0;
@@ -93,8 +93,9 @@ HEADER STYLING
 				border: none;
 
 				a {
-					color: black;
+					color: white;
 					font-size: 1.2em;
+					font-weight: 700;  //bold
 					text-decoration: none;
 					padding: 0 .25em;
 
