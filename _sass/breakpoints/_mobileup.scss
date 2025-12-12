@@ -182,11 +182,12 @@ HEADER STYLING
 .header {
 	background-color: $background-color;
 	background-image: url("../../BridgingResearchandPractice4.jpeg");
-	background-size: cover;
+	background-size: contain;     // show 100% of the image
+    background-repeat: no-repeat; // avoid tiling
 	background-position: center center;
 	color: black;
 	padding: 0;
-	height: 5em;
+	height: 6em;
 
 	.container {
 		padding: 0;
