@@ -17,12 +17,12 @@ title: Schedule
   <!-- Program Overview -->
   <section class="program-overview">
     <h4 style="color: #2c3e50;">Program Overview</h4>
-    <p>Below is the planned program for the BRIDGE workshop. Minor timing updates may occur; please check back closer to the event date.</p>
+    <p>Below is the planned program for the workshop. Minor timing updates may occur; please check back closer to the event date.</p>
   </section>
 
-  <!-- Session 1: Morning Session (9:00 AM -12:30 PM) -->
+  <!-- Session 1: Morning Session (9:00 AM -12:00 PM) -->
   <section class="session session-keynotes">
-    <h4 style="color: #2c3e50;">Session 1 — Keynotes</h4>
+    <h4 style="color: #2c3e50;">Session 1 — Medical Video AI Assessment (Moderator: Dr. Feng Yang)</h4>
 
     <table style="width: 100%; border-collapse: collapse;">
       <thead>
@@ -34,36 +34,36 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">08:00–08:10</td>
+          <td style="padding: 8px;">09:00–09:05 AM</td>
           <td style="padding: 8px;">Introduction</td>
-          <td style="padding: 8px;">Feng Yang</td>
+          <td style="padding: 8px;">Dr. Feng Yang</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">08:10–08:45</td>
+          <td style="padding: 8px;">09:05–09:55 AM</td>
           <td style="padding: 8px;">Accelerating AI Model Development and Evaluation with Regulatory Science</td>
-          <td style="padding: 8px;">Dr. Jana Delfino/Feng Yang (TBF) (FDA)</td>
+          <td style="padding: 8px;">Dr. Feng Yang (US. FDA)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">08:45–09:20</td>
+          <td style="padding: 8px;">09:55–10:45 AM</td>
           <td style="padding: 8px;">Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
           <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">09:20–09:55</td>
-          <td style="padding: 8px;">Uncertainty Assessment for Medical AI (TBF)</td>
-          <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
+          <td style="padding: 8px;">10:45–11:10 AM</td>
+          <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
         </tr>
         <tr>
-          <td style="padding: 8px;">10:00–10:30</td>
-          <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
+          <td style="padding: 8px;">11:10 AM–12:10 PM</td>
+          <td style="padding: 8px;">Oral presentation</td>
+          <td style="padding: 8px;">TBD</td>
         </tr>
       </tbody>
     </table>
   </section>
 
-  <!-- Session 2: Oral presentation -->
+  <!-- Session 2: Afternoon Session (1:00-4:00 PM)-->
   <section class="session session-posters">
-    <h4 style="color: #2c3e50;">Session 2 — Posters</h4>
+    <h4 style="color: #2c3e50;">Session 2 — Uncertainty Quantification (Moderator: Dr. Maria Zuluaga)</h4>
 
     <table style="width: 100%; border-collapse: collapse;">
       <thead>
@@ -75,8 +75,13 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">10:30–10:40</td>
-          <td style="padding: 8px;">TBD</td>
+          <td style="padding: 8px;">1:00–1:55 PM</td>
+          <td style="padding: 8px;">Uncertainty Assessment for Medical AI (TBF)</td>
+          <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">1:55–2:55 PM </td>
+          <td style="padding: 8px;">Oral Presentation</td>
           <td style="padding: 8px;">TBD</td>
         </tr>
         
@@ -98,7 +103,7 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">11:30–12:30</td>
+          <td style="padding: 8px;">3:00–4:00 PM</td>
           <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
             <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
