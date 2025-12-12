@@ -53,9 +53,13 @@ title: Schedule
           <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
         </tr>
         <tr>
-          <td style="padding: 8px;">11:10 AM–12:10 PM</td>
+          <td style="padding: 8px;">11:10AM–12:10PM</td>
           <td style="padding: 8px;">Oral presentation</td>
           <td style="padding: 8px;">TBD</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">12:10–1:00 PM</td>
+          <td style="padding: 8px;" colspan="2"><strong>Lunch time</strong></td>
         </tr>
       </tbody>
     </table>
@@ -107,7 +111,7 @@ title: Schedule
           <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
             <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
-            <strong>Moderator:</strong> Dr. Maria Zuluaga
+            <strong>Moderator:</strong> Dr. Feng Yang
           </td>
         </tr>
       </tbody>
