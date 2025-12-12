@@ -20,7 +20,7 @@ title: Schedule
     <p>Below is the planned program for the BRIDGE workshop. Minor timing updates may occur; please check back closer to the event date.</p>
   </section>
 
-  <!-- Session 1: Keynotes -->
+  <!-- Session 1: Morning Session (9:00 AM -12:30 PM) -->
   <section class="session session-keynotes">
     <h4 style="color: #2c3e50;">Session 1 — Keynotes</h4>
 
