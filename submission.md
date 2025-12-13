@@ -59,7 +59,7 @@ While this workshop will focus on medical video AI systems, assessment many of t
 <section class="paper-format">
   <h4 style="color: #2c3e50;">Paper Format &amp; Submission</h4>
   <p>
-    Submissions must be anonymized (double-blind), use the official
+    Submissions must be anonymized, use the official
     <a href="https://biomedicalimaging.org/2026/initial-author-instructions/"
        target="_blank"
        rel="noopener">
