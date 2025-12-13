@@ -20,7 +20,7 @@ title: About the workshop
             <img src="{{ '/assets/img/eyke.jpg' | relative_url }}" alt="Eyke" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Prof. Dr. Eyke Hüllermeier <br> Chair of Artificial Intelligence and Machine Learning, LMU Munich, Germany </div>
         </div>
-    <!-- </div> -->
+    </div>
     
     <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
     <br>
