@@ -61,8 +61,8 @@ HEADER STYLING
 .header {
 	height: 26em;
 	position: relative;
-	padding-top: 13em;
-	padding-bottom: 22em;
+	//padding-top: 13em;
+	padding-bottom: 2em;
 
 	.container {
 		position: relative;
@@ -76,6 +76,7 @@ HEADER STYLING
 		font-size: 2em;
 		line-height: 1.2;
 		letter-spacing: 0.03em;
+		margin-bottom: 2rem;   // space between title and menu if needed
 		padding-left: 0;
 	}
 
