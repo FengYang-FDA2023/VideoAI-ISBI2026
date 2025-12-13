@@ -4,7 +4,7 @@ title: About the workshop
 ---
 <div class="post">
     <h3 class="pageTitle" style="color: #2c3e50;">Keynote Speakers</h3>
-    //<h4 class="pageTitle" style="color: #2c3e50;">Keynote Speakers</h4>
+    <!-- <h4 class="pageTitle" style="color: #2c3e50;">Keynote Speakers</h4>-- >
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/feng.jpeg' | relative_url }}" alt="Feng" style="width: 180px; height: 240px; object-fit: cover;">
