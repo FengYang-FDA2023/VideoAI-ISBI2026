@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About the workshop
+//title: About the workshop
 ---
 <div class="post">
     <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
