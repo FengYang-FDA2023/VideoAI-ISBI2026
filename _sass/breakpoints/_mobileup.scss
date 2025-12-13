@@ -185,8 +185,10 @@ HEADER STYLING
 	background-size: cover;     
 	background-position: center center;
 	color: black;
-	padding: 0;
-	height: 10em;
+	padding: 2rem 0;      // ⬅ adds vertical space above & below the title
+	height: auto;         // allow content to define height (recommended)
+	//padding: 0;
+	//height: 10em;
 
 	.container {
 		padding: 0;
