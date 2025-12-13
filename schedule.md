@@ -95,7 +95,7 @@ title: Schedule
 
   <!-- Session 3: Panel -->
   <section class="session session-panel">
-    <h4 style="color: #2c3e50;">Session 3 — Panel Discussion</h4>
+    <h4 style="color: #2c3e50;">Session 3 — Panel Discussion (Moderator: Dr. Feng Yang)</h4>
 
     <table style="width: 100%; border-collapse: collapse;">
       <thead>
@@ -111,7 +111,6 @@ title: Schedule
           <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
             <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
-            <strong>Moderator:</strong> Dr. Feng Yang
           </td>
         </tr>
       </tbody>
