@@ -23,7 +23,6 @@ title: About the workshop
     </div>
     
     <h4 class="pageTitle" style="color: #2c3e50;">  Questions? </h4>
-    <br>
-  Reach out to us at: <a href="mailto:videoai.isbi2026@gmail.com">videoai.isbi2026@gmail.com</a><br>
+    <br> Reach out to us at: <a href="mailto:videoai.isbi2026@gmail.com">videoai.isbi2026@gmail.com</a><br>
 
 </div>
