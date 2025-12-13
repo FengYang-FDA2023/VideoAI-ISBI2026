@@ -16,10 +16,10 @@ title: Organizers
         </div>
     </div>
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
-        <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/yan.jpg' | relative_url }}" alt="Yan" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Yan Zhang <br> FDA, USA </div>
-        </div>
+        //<div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
+         //   <img src="{{ '/assets/img/yan.jpg' | relative_url }}" alt="Yan" style="width: 180px; height: 240px; object-fit: cover;">
+         //   <div style="margin-top: 8px; text-align: center;">Dr. Yan Zhang <br> FDA, USA </div>
+        //</div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/maria.jpg' | relative_url }}" alt="maria" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Maria A. Zuluaga <br> EUROCOM, France</div>
