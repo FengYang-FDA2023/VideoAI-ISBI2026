@@ -1,9 +1,9 @@
 ---
 layout: default
-//title: About the workshop
+title: Organizers
 ---
 <div class="post">
-    <h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
+    //<h3 class="pageTitle" style="color: #2c3e50;">About the Workshop</h3>
     <h4 class="pageTitle" style="color: #2c3e50;">Organizers</h4>
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
