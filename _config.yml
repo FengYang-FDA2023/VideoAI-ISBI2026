@@ -29,6 +29,8 @@ navigation:
       url: /keynote
     - title: Schedule
       url: /schedule
+    - title: Program committee
+      url: /committee
 
 # social:
     # github: brianmaierjr
