@@ -7,17 +7,17 @@ layout: default
     <h4 class="pageTitle" style="color: #2c3e50;">Organizers</h4>
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Feng.jpg' | relative_url }}" alt="Feng" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/feng.jpg' | relative_url }}" alt="Feng" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Feng Yang <br> FDA staffer, USA<br> <i> </i></div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Qian.jpg' | relative_url }}" alt="Qian" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/qian.jpg' | relative_url }}" alt="Qian" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Qian Cao <br> FDA staffer, USA <br> <i></i></div>
         </div>
     </div>
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/Yan.jpg' | relative_url }}" alt="Yan" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/yan.jpg' | relative_url }}" alt="Yan" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Yan Zhang <br> FDA staffer, USA </div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
