@@ -25,7 +25,7 @@ title: About the workshop
             <div style="margin-top: 8px; text-align: center;">Dr. Maria A. Zuluaga <br> EUROCOM, France</div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/ruogu.jpg' | relative_url }}" alt="Annika" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/ruogu.jpg' | relative_url }}" alt="ruogu" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Dr. Ruogu Fang <br> University of Florida, USA</div>
         </div>
     </div>
