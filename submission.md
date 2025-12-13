@@ -65,7 +65,7 @@ While this workshop will focus on medical video AI systems, assessment many of t
        rel="noopener">
       IEEE ISBI format
     </a>,
-    and be no more than <strong>4 pages of main content</strong> plus up to <strong>1 page for Ethical Standards, Acknowledgements, and References</strong>. So, the maximum length is <strong>five pages</strong> (including this additional content). Manuscripts exceeding 5 pages will be rejected. The <strong>fifth page requires a $200 fee</strong>, which will be paid for during registration.).
+    and be no more than <strong>4 pages of main content</strong> plus up to <strong>1 page for Ethical Standards, Acknowledgements, and References</strong>. So, the maximum length is <strong>five pages</strong> (including this additional content). Manuscripts exceeding 5 pages will be rejected. The <strong>fifth page requires a $200 fee</strong>, which will be paid for during registration.
   </p>
   <p>
     Submit your manuscript via OpenReview:
