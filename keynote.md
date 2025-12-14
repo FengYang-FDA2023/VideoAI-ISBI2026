@@ -8,7 +8,7 @@ title: About the workshop
     <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/feng.jpeg' | relative_url }}" alt="Feng" style="width: 180px; height: 240px; object-fit: cover;">
-            <div style="margin-top: 8px; text-align: center;">Dr. Feng Yang <br> FDA Senior Staff Fellow, USA<br> <i> </i></div>
+            <div style="margin-top: 8px; text-align: center;">Dr. Feng Yang <br> OSEL/CDRH/FDA, USA<br> <i> </i></div>
         </div>
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
             <img src="{{ '/assets/img/nhan.jpg' | relative_url }}" alt="Nhan" style="width: 180px; height: 240px; object-fit: cover;">
