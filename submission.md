@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Call for Paper
+title: Call for Papers
 ---
 
 <div class="post" style="text-align: justify;">
 
 <section class="call-intro">
-  <h4 class="pageTitle" style="color: #2c3e50;">Call for Paper</h4>
+  <h4 class="pageTitle" style="color: #2c3e50;">Call for Papers</h4>
   <h5 class="pageTitle" style="color: #2c3e50;">Introduction  </h5>
   <p>
   Artificial Intelligence and Machine Learning (AI/ML)-enabled medical devices are advancing rapidly to address the evolving needs of patients, clinicians, and manufacturers in the MedTech industry.  However, the pace of technological innovation has outstripped the development of evaluation methods in some instances, creating uncertainty for developers and posing challenges for regulatory bodies charged with ensuring safety, efficacy, and transparency.
