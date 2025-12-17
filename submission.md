@@ -68,7 +68,7 @@ title: Call for Papers
   </p>
   <p>
     Submit your manuscript via OpenReview:
-    <a href="https://openreview.net/group?id=ISBI.org/2026/Workshop/VideoAIandUncertainty"
+    <a href="https://openreview.net/group?id=ieee.org/ISBI/2026/Workshop/VIDEOAI#tab-your-consoles"
        target="_blank"
        rel="noopener">
       OpenReview Submission Site
