@@ -58,14 +58,14 @@ title: Schedule
           <td style="padding: 8px;">TBD</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">12:10–1:00 PM</td>
+          <td style="padding: 8px;">12:10–1:10 PM</td>
           <td style="padding: 8px;" colspan="2"><strong>Lunch time</strong></td>
         </tr>
       </tbody>
     </table>
   </section>
 
-  <!-- Session 2: Afternoon Session (1:00-4:00 PM)-->
+  <!-- Session 2: Afternoon Session (1:10-5:00 PM)-->
   <section class="session session-posters">
     <h4 style="color: #2c3e50;">Session 2 — Uncertainty Quantification (Moderator: Dr. Maria Zuluaga)</h4>
 
@@ -79,16 +79,20 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">1:00–1:55 PM</td>
+          <td style="padding: 8px;">1:10–2:00 PM</td>
           <td style="padding: 8px;">Uncertainty Assessment for Medical AI (TBF)</td>
           <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">1:55–2:55 PM </td>
+          <td style="padding: 8px;">2:00–3:00 PM </td>
           <td style="padding: 8px;">Oral Presentation</td>
           <td style="padding: 8px;">TBD</td>
         </tr>
-        
+        <tr>
+          <td style="padding: 8px;">3:00–3:30 PM </td>
+          <td style="padding: 8px;">Poster Presentation</td>
+          <td style="padding: 8px;">TBD</td>
+        </tr>
       </tbody>
     </table>
   </section>
@@ -107,7 +111,7 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">3:00–4:00 PM</td>
+          <td style="padding: 8px;">3:30–4:30 PM</td>
           <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
             <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
