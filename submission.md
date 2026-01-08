@@ -32,7 +32,7 @@ title: Call for Papers
   <section class="topics">
     <h4 style="color: #2c3e50;">Topics that will be covered in the workshop:</h4>
     <ul>
-      <li>Study designs for benchmarking disease-detection models in medical video-based applications</li>
+      <li>Study designs for benchmarking computer-aided detection models in medical video-based applications</li>
       <li>Standardized evaluation frameworks/methods for AI-enabled video devices</li>
       <li>Evaluation metrics at potentially multiple levels (e.g., frame-, lesion-, and patient-level) for performance, video detection latency, temporal consistency, false-positive burden, etc.</li>
       <li>Development and curation of reference datasets for medical video AI evaluation</li>
