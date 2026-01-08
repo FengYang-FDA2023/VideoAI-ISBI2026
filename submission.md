@@ -95,10 +95,10 @@ title: Call for Papers
   <section class="important-dates">
     <h4 style="color: #2c3e50;">Important Dates (Anywhere on Earth)</h4>
     <ul>
-    <li><strong>Full paper deadline:</strong> Feb 15th, 2026</li>
-    <li><strong>Notification of acceptance:</strong> Feb 28th, 2026</li>
-    <li><strong>Camera-ready deadline:</strong> March 7th, 2026 (No deadline extension)</li>
-    <li><strong>Workshop date:</strong> TBA</li>
+    <li><strong>Full paper deadline:</strong> Feb 15, 2026</li>
+    <li><strong>Notification of acceptance:</strong> Feb 28, 2026</li>
+    <li><strong>Camera-ready deadline:</strong> March 7, 2026 (No deadline extension)</li>
+    <li><strong>Workshop date:</strong> April 9, 2026</li>
     </ul>
   </section>
 
