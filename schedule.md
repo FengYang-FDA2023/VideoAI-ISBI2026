@@ -10,7 +10,7 @@ title: Schedule
     <p>
       <strong>Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice</strong>
       <br/>
-      <strong>Date:</strong> April 8, 2026
+      <strong>Date:</strong> April 9, 2026
     </p>
   </section>
 
