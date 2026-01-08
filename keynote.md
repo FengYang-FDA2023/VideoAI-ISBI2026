@@ -17,7 +17,7 @@ title: About the workshop
     <!-- </div> -->
     <!-- <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">  -->
         <div style="display: flex; flex-direction: column; align-items: center; width: 200px;">
-            <img src="{{ '/assets/img/eyke1.jpg' | relative_url }}" alt="Eyke" style="width: 180px; height: 240px; object-fit: cover;">
+            <img src="{{ '/assets/img/eyke1.png' | relative_url }}" alt="Eyke" style="width: 180px; height: 240px; object-fit: cover;">
             <div style="margin-top: 8px; text-align: center;">Prof. Dr. Eyke Hüllermeier <br> Chair of Artificial Intelligence and Machine Learning, LMU Munich, Germany </div>
         </div>
     </div>
