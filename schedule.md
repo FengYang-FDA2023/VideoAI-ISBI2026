@@ -116,11 +116,10 @@ title: Schedule
         </tr>
         <tr>
           <td style="padding: 8px;">4:00–4:30 PM </td>
-          <td style="padding: 8px;">Coffee Break</td>
-          <td style="padding: 8px;">TBD</td>
+          <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
         </tr>
         <tr>
-          <td style="padding: 8px;">4:30–5:00 PM </td>
+          <td style="padding: 8px;">4:30–5:30 PM </td>
           <td style="padding: 8px;">Poster Presentation</td>
           <td style="padding: 8px;">TBD</td>
         </tr>
