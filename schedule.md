@@ -44,28 +44,29 @@ title: Schedule
           <td style="padding: 8px;">Dr. Feng Yang (US. FDA)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">09:55–10:45 AM</td>
-          <td style="padding: 8px;">Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
-          <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">10:45–11:10 AM</td>
+          <td style="padding: 8px;">10:00–10:30 AM</td>
           <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
         </tr>
         <tr>
-          <td style="padding: 8px;">11:10AM–12:10PM</td>
+          <td style="padding: 8px;">10:30–11:20 AM</td>
+          <td style="padding: 8px;">Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
+          <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
+        </tr>
+        
+        <tr>
+          <td style="padding: 8px;">11:20AM–12:00PM</td>
           <td style="padding: 8px;">Oral presentation</td>
           <td style="padding: 8px;">TBD</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">12:10–1:10 PM</td>
+          <td style="padding: 8px;">12:00–1:00 PM</td>
           <td style="padding: 8px;" colspan="2"><strong>Lunch time</strong></td>
         </tr>
       </tbody>
     </table>
   </section>
 
-  <!-- Session 2: Afternoon Session (1:10-5:00 PM)-->
+  <!-- Session 2: Afternoon Session (1:00-5:00 PM)-->
   <section class="session session-posters">
     <h4 style="color: #2c3e50;">Session 2 — Uncertainty Quantification (Moderator: Dr. Maria Zuluaga)</h4>
 
@@ -79,25 +80,21 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">1:10–2:00 PM</td>
+          <td style="padding: 8px;">1:00–1:50 PM</td>
           <td style="padding: 8px;">Uncertainty Assessment for Medical AI (TBF)</td>
           <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">2:00–3:00 PM </td>
+          <td style="padding: 8px;">1:50–3:00 PM </td>
           <td style="padding: 8px;">Oral Presentation</td>
           <td style="padding: 8px;">TBD</td>
         </tr>
-        <tr>
-          <td style="padding: 8px;">3:00–3:30 PM </td>
-          <td style="padding: 8px;">Poster Presentation</td>
-          <td style="padding: 8px;">TBD</td>
-        </tr>
+        
       </tbody>
     </table>
   </section>
 
-  <!-- Session 3: Panel -->
+  <!-- Session 3: Panel and Poster Session -->
   <section class="session session-panel">
     <h4 style="color: #2c3e50;">Session 3 — Panel Discussion (Moderator: Dr. Feng Yang)</h4>
 
@@ -111,12 +108,23 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">3:30–4:30 PM</td>
+          <td style="padding: 8px;">3:00–4:00 PM</td>
           <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
           <td style="padding: 8px;">
             <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
           </td>
         </tr>
+        <tr>
+          <td style="padding: 8px;">4:00–4:30 PM </td>
+          <td style="padding: 8px;">Coffee Break</td>
+          <td style="padding: 8px;">TBD</td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">4:30–5:00 PM </td>
+          <td style="padding: 8px;">Poster Presentation</td>
+          <td style="padding: 8px;">TBD</td>
+        </tr>
+        
       </tbody>
     </table>
   </section>
