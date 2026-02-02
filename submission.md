@@ -45,7 +45,6 @@ title: Call for Papers
       <li>Perspective and opinion papers on limitations of current evaluation paradigms for medical video AI</li>
       <li>Viewpoints on dataset bias, annotation uncertainty, and ground truth definition in AI-enabled devices</li>
       <li>Bridging gaps between AI development, evaluation, and regulation</li>
-
     </ul>
   </section>
 
