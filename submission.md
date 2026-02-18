@@ -97,9 +97,9 @@ title: Call for Papers
   <section class="important-dates">
     <h4 style="color: #2c3e50;">Important Dates (Anywhere on Earth)</h4>
     <ul>
-    <li><strong>Full paper deadline:</strong> <s>Feb 15, 2026</s> Feb 20, 2026 </li>
-    <li><strong>Notification of acceptance:</strong> <s>Feb 28, 2026</s> March 2, 2026 </li>
-    <li><strong>Camera-ready deadline:</strong> March 7, 2026 (No deadline extension)</li>
+    <li><strong>Full paper deadline:</strong> <s>Feb 15, 2026</s> Feb 28, 2026 </li>
+    <li><strong>Notification of acceptance:</strong> <s>Feb 28, 2026</s> March 7, 2026 </li>
+    <li><strong>Camera-ready deadline:</strong> March 14, 2026 (No deadline extension)</li>
     <li><strong>Workshop date:</strong> April 9, 2026</li>
     </ul>
   </section>
