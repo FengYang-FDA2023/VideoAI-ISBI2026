@@ -36,7 +36,7 @@ title: Schedule
         <tr>
           <td style="padding: 8px;">09:00–09:05 AM</td>
           <td style="padding: 8px;">Introduction</td>
-          <td style="padding: 8px;">Dr. Feng Yang</td>
+          <td style="padding: 8px;">Dr. Feng Yang, Dr. Maria A. Zuluaga</td>
         </tr>
         <tr>
           <td style="padding: 8px;">09:05–09:55 AM</td>
@@ -44,19 +44,21 @@ title: Schedule
           <td style="padding: 8px;">Dr. Feng Yang (US. FDA)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">10:00–10:30 AM</td>
-          <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">10:30–11:20 AM</td>
+          <td style="padding: 8px;">9:55–10:45 AM</td>
           <td style="padding: 8px;">Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
           <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
         </tr>
-        
         <tr>
-          <td style="padding: 8px;">11:20AM–12:00PM</td>
+          <td style="padding: 8px;">10:45–11:00 AM</td>
+          <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
+        </tr>
+        <tr>
+          <td style="padding: 8px;">11:00AM–12:00PM</td>
           <td style="padding: 8px;">Oral presentation</td>
-          <td style="padding: 8px;">TBD</td>
+          <td style="padding: 8px;">Samuel Gussman-Toh, Assessing Polyp Detection Delay Using Tracklets</td>
+          <td style="padding: 8px;">Sachin Panicker, Mind the Gap: An Analytical Framework for Evaluation–Regulation Alignment in Medical Video AI</td>
+          <td style="padding: 8px;">Krispian Lawrence, Beyond AUROC: Evaluating Temporal Stability, False Positive Load, and Uncertainty Calibration in Capsule Endoscopy Video Ai</td>
+          <td style="padding: 8px;">Ahmad P. Tafti, Uncertainty-Quantified and Explainable Age- and Sex-Aware Contrastive Learning for Knee Osteoarthritis Classification</td>
         </tr>
         <tr>
           <td style="padding: 8px;">12:00–1:00 PM</td>
@@ -85,8 +87,8 @@ title: Schedule
           <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">1:50–3:00 PM </td>
-          <td style="padding: 8px;">Oral Presentation</td>
+          <td style="padding: 8px;">1:50–2:40 PM </td>
+          <td style="padding: 8px;">Panel Discussion</td>
           <td style="padding: 8px;">TBD</td>
         </tr>
         
