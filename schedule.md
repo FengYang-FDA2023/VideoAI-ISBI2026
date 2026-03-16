@@ -93,46 +93,13 @@ title: Schedule
         <tr>
           <td style="padding: 8px;">1:50–2:40 PM </td>
           <td style="padding: 8px;">Panel Discussion</td>
-          <td style="padding: 8px;">TBD</td>
+          <td style="padding: 8px;">From Challenges to Innovation: Advancing Medical AI from Research to Real-World Impact</td>
         </tr>
         
       </tbody>
     </table>
   </section>
 
-  <!-- Session 3: Panel and Poster Session -->
-  <section class="session session-panel">
-    <h4 style="color: #2c3e50;">Session 3 — Panel Discussion (Moderator: Dr. Feng Yang)</h4>
-
-    <table style="width: 100%; border-collapse: collapse;">
-      <thead>
-        <tr>
-          <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd; width: 18%;">Time</th>
-          <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd;">Topic</th>
-          <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd; width: 40%;">Participants</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="padding: 8px;">3:00–4:00 PM</td>
-          <td style="padding: 8px;">From development, regulatory assessment, to clincial application - Medical AI Innovation</td>
-          <td style="padding: 8px;">
-            <strong>Panelists:</strong> <em>Industry Panelist TBA</em><br/>
-          </td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">4:00–4:30 PM </td>
-          <td style="padding: 8px;" colspan="2"><strong>Coffee Break</strong></td>
-        </tr>
-        <tr>
-          <td style="padding: 8px;">4:30–5:30 PM </td>
-          <td style="padding: 8px;">Poster Presentation</td>
-          <td style="padding: 8px;">TBD</td>
-        </tr>
-        
-      </tbody>
-    </table>
-  </section>
 
   <footer style="text-align: center; margin-top: 2em;">
     <p>— Medical Video AI Assessment and Uncertainty Quantification Workshop Team</p>
