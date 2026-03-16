@@ -55,7 +55,11 @@ title: Schedule
         <tr>
           <td style="padding: 8px;">11:00AM–12:00PM</td>
           <td style="padding: 8px;">Oral presentation</td>
-          <td style="padding: 8px;">Samuel Gussman-Toh, Assessing Polyp Detection Delay Using Tracklets; Sachin Panicker, Mind the Gap: An Analytical Framework for Evaluation–Regulation Alignment in Medical Video AI; Krispian Lawrence, Beyond AUROC: Evaluating Temporal Stability, False Positive Load, and Uncertainty Calibration in Capsule Endoscopy Video Ai; Ahmad P. Tafti, Uncertainty-Quantified and Explainable Age- and Sex-Aware Contrastive Learning for Knee Osteoarthritis Classification</td>
+          <td style="padding: 8px;">
+          <li> Samuel Gussman-Toh, Assessing Polyp Detection Delay Using Tracklets</li>
+          <li>Sachin Panicker, Mind the Gap: An Analytical Framework for Evaluation–Regulation Alignment in Medical Video AI</li>
+          <li>Krispian Lawrence, Beyond AUROC: Evaluating Temporal Stability, False Positive Load, and Uncertainty Calibration in Capsule Endoscopy Video Ai</li>
+          <li>Ahmad P. Tafti, Uncertainty-Quantified and Explainable Age- and Sex-Aware Contrastive Learning for Knee Osteoarthritis Classification</li>
         </tr>
         <tr>
           <td style="padding: 8px;">12:00–1:00 PM</td>
