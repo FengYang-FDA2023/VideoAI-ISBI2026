@@ -11,6 +11,7 @@ title: Schedule
       <strong>Medical Video AI Assessment and Uncertainty Quantification: Bridging Research and Practice</strong>
       <br/>
       <strong>Date:</strong> April 9, 2026
+      <strong>Location:</strong> Room 16, ExCel London
     </p>
   </section>
 
