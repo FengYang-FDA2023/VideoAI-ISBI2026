@@ -69,12 +69,12 @@ title: Schedule
         </tr>
         <tr>
           <td style="padding: 8px;">10:10–11:00 AM</td>
-          <td style="padding: 8px;"><strong>Keynote 2:</strong>Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
+          <td style="padding: 8px;"><strong>Keynote 2:</strong> Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
           <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
         </tr>
         <tr>
           <td style="padding: 8px;">11:00–11:50 AM</td>
-          <td style="padding: 8px;"><strong>Keynote 3:</strong>Uncertainty Assessment for Medical AI (TBF)</td>
+          <td style="padding: 8px;"><strong>Keynote 3:</strong> Uncertainty Assessment for Medical AI (TBF)</td>
           <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
