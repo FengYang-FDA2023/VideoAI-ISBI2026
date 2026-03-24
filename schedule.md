@@ -99,12 +99,12 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">1:00–1:50 PM </td>
+          <td style="padding: 8px;">1:00–1:55 PM </td>
           <td style="padding: 8px;">Panel Discussion</td>
           <td style="padding: 8px;">From Challenges to Innovation: Advancing Medical AI from Research to Real-World Impact</td>
         </tr>
         <tr>
-          <td style="padding: 8px;">1:50–2:00 PM </td>
+          <td style="padding: 8px;">1:55–2:00 PM </td>
           <td style="padding: 8px;">Best paper award</td>
         </tr>
       </tbody>
