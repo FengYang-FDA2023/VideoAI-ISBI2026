@@ -100,8 +100,14 @@ title: Schedule
       <tbody>
         <tr>
           <td style="padding: 8px;">1:00–1:55 PM </td>
-          <td style="padding: 8px;">Panel Discussion</td>
-          <td style="padding: 8px;">From Challenges to Innovation: Advancing Medical AI from Research to Real-World Impact</td>
+          <td style="padding: 8px;"><strong>Panel Discussion:</strong> From Challenges to Innovation: Advancing Medical AI from Research to Real-World Impact</td>
+          <td style="padding: 8px;">
+            <li>Prof. Dinggang Shen: Professor and Founding Dean, School of BME, ShanghaiTech University; Co-CEO, United Imaging Intelligence</li>
+            <li>Dr. Nhan Ngo Dinh: Presidente at Cosmo Intelligent Medical Devices</li>
+            <li>Dr. Shakith Fernando: Senior Medical AI Architect, Philips</li>
+            <li>Dr. Hongxu Yang: AI Scientist at GE Healthcare</li>
+            <li>Dr. Maria A. Zuluaga: Professor at EURECOM, France</li>
+          </td>
         </tr>
         <tr>
           <td style="padding: 8px;">1:55–2:00 PM </td>
