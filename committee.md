@@ -21,8 +21,18 @@ title: About the workshop
     </div>
 
     <div style="text-align: center; width: 220px;">
-      <strong>Prof. Dr. Yue Zhao</strong><br>
+      <strong>Dr. Yue Zhao</strong><br>
       Associate Professor, Harbin Institute of Technology, China
+    </div>
+
+    <div style="text-align: center; width: 220px;">
+      <strong>Dr. Vy Bui</strong><br>
+      Scientist at Lister Hill Center, National Library of Medicine, NIH, USA
+    </div>
+
+    <div style="text-align: center; width: 220px;">
+      <strong>Dr. Weibing Zhao</strong><br>
+      Tenure- track Associate Professor at Shenzhen MSU-BIT University, China
     </div>
 
   </div>
