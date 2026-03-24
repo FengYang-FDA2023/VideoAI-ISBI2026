@@ -87,7 +87,7 @@ title: Schedule
 
   <!-- Session 2: Afternoon Session (1:00-2:00 PM)-->
   <section class="session session-posters">
-    <h4 style="color: #2c3e50;">Session 2 — Uncertainty Quantification (Moderator: Dr. Feng Yang)</h4>
+    <h4 style="color: #2c3e50;">Session 2 — Panel Discussion (Moderator: Dr. Feng Yang)</h4>
 
     <table style="width: 100%; border-collapse: collapse;">
       <thead>
