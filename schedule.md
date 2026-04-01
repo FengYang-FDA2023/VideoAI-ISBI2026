@@ -99,7 +99,7 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td style="padding: 8px;">1:00–1:55 PM </td>
+          <td style="padding: 8px;">1:00–2:00 PM </td>
           <td style="padding: 8px;"><strong>Panel Discussion:</strong> From Challenges to Innovation: Advancing Medical AI from Research to Real-World Impact</td>
           <td style="padding: 8px;">
             <li>Prof. Dinggang Shen: Professor and Founding Dean, School of BME, ShanghaiTech University; Co-CEO, United Imaging Intelligence</li>
@@ -109,10 +109,7 @@ title: Schedule
             <li>Dr. Maria A. Zuluaga: Professor at EURECOM, France</li>
           </td>
         </tr>
-        <tr>
-          <td style="padding: 8px;">1:55–2:00 PM </td>
-          <td style="padding: 8px;">Best paper award</td>
-        </tr>
+        
       </tbody>
     </table>
   </section>
