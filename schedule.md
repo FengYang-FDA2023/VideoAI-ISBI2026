@@ -42,7 +42,7 @@ title: Schedule
         </tr>
         <tr>
           <td style="padding: 8px;">08:05–08:55 AM</td>
-          <td style="padding: 8px;"><strong>Keynote 1</strong>: Accelerating AI Model Development and Evaluation with Regulatory Science</td>
+          <td style="padding: 8px;"><strong>Keynote 1</strong>: Regulatory Science Tools for Accelerating AI Model Development and Evaluation</td>
           <td style="padding: 8px;">Dr. Feng Yang (US. FDA)</td>
         </tr>
         <tr>
