@@ -103,7 +103,7 @@ title: Schedule
             <li>Prof. Dinggang Shen: Professor and Founding Dean, School of BME, ShanghaiTech University; Co-CEO, United Imaging Intelligence</li>
             <li>Dr. Nhan Ngo Dinh: Presidente at Cosmo Intelligent Medical Devices</li>
             <li>Dr. Eyke Hüllermeier: Professor at the Institute of Informatics at LMU Munich</li>
-            <li>Dr. Shakith Fernando: Senior Medical AI Architect, Philips</li>
+            <li>EngD. Shakith Fernando: Senior Medical AI Architect, Philips</li>
             <li>Dr. Hongxu Yang: AI Scientist at GE Healthcare</li>
             <li>Dr. Maria A. Zuluaga: Professor at EURECOM, France</li>
           </td>
