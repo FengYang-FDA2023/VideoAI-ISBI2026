@@ -72,7 +72,7 @@ title: Schedule
         </tr>
         <tr>
           <td style="padding: 8px;">11:00–11:50 AM</td>
-          <td style="padding: 8px;"><strong>Keynote 3:</strong> Uncertainty Assessment for Medical AI (TBF)</td>
+          <td style="padding: 8px;"><strong>Keynote 3:</strong> Uncertainty Quantification in Medical AI: From Aleatoric to Epistemic</td>
           <td style="padding: 8px;">Dr. Eyke Hüllermeier (LMU Munich)</td>
         </tr>
         <tr>
