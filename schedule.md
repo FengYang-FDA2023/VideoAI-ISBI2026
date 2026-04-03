@@ -67,8 +67,8 @@ title: Schedule
         </tr>
         <tr>
           <td style="padding: 8px;">10:10–11:00 AM</td>
-          <td style="padding: 8px;"><strong>Keynote 2:</strong> Bridging Innovation and Reality: Toward Next-Generation Imaging AI Validation</td>
-          <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO Intelligent Medical Devices)</td>
+          <td style="padding: 8px;"><strong>Keynote 2:</strong>Live AI in Endoscopy: Real-Time Performance, Uncerainty, and Clinical Impact</td>
+          <td style="padding: 8px;">Dr. Nhan Ngo Dinh (President of COSMO MedTech AI)</td>
         </tr>
         <tr>
           <td style="padding: 8px;">11:00–11:50 AM</td>
@@ -101,7 +101,7 @@ title: Schedule
           <td style="padding: 8px;"><strong>Panel Discussion:</strong> From Challenges to Innovation: Advancing Medical AI from Research to Real-World Impact</td>
           <td style="padding: 8px;">
             <li>Prof. Dinggang Shen: Professor and Founding Dean, School of BME, ShanghaiTech University; Co-CEO, United Imaging Intelligence</li>
-            <li>Dr. Nhan Ngo Dinh: Presidente at Cosmo Intelligent Medical Devices</li>
+            <li>Dr. Nhan Ngo Dinh: Presidente at Cosmo MedTech AI</li>
             <li>Dr. Eyke Hüllermeier: Professor at the Institute of Informatics at LMU Munich</li>
             <li>EngD. Shakith Fernando: Senior Medical AI Architect, Philips</li>
             <li>Dr. Hongxu Yang: AI Scientist at GE Healthcare</li>
